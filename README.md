@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil ❤️
 
-<!--
-**rodrigues04nanu/rodrigues04nanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Manuela Rodrigues 
 
-Here are some ideas to get you started:
+estou estudando no [alura](https://www.alura.com.br)- ensino medio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me desenvolvendo na linguagem Javascript
+e usando esse espaço para minha organização e compartilhando os meus projetos 
+
+*** voce pode entrar em contato comigo***
+
+@manuelasouzarodrigues392@gmail.com.br
+
+@_.manuuh._ 
+
+![](https://tenor.com/pt-BR/view/hh-gif-25727083)
